@@ -1,0 +1,2 @@
+# Masteredge-bot
+INDICATOR
